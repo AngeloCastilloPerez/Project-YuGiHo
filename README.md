@@ -15,3 +15,13 @@ https://app.powerbi.com/view?r=eyJrIjoiNzkyMWRhNWMtOTkxYy00NDUwLWI2MzAtYTY2NGZjM
 
 ##Dowload Data:
 https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5xGaEW09p8l91HJgrwGuVoW3BP-lBSGNf19_R5tL397WmuyPydlANOd7eUx9ZOw/pub?output=csv
+
+<a href="https://www.instagram.com/angelocastilloperz/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/AngeloCasell">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/castilloperz/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
