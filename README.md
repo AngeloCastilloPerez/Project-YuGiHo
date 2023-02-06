@@ -1,0 +1,17 @@
+# Project-YuGiHo
+Proyecto en honor a Kazuki Takahashi
+
+## Prohject Power Bi
+
+![1](https://user-images.githubusercontent.com/107339963/217089716-39f36656-87e2-4238-af74-ce4bde7cf888.png)
+![2](https://user-images.githubusercontent.com/107339963/217089726-41002d33-70f6-441e-8cc8-8d9d101ead41.PNG)
+![3](https://user-images.githubusercontent.com/107339963/217089742-b52761cf-0b07-4327-abcd-6adde187e709.PNG)
+![4](https://user-images.githubusercontent.com/107339963/217089753-4c7e1e7d-b812-4077-8df2-2344f7a2b5fa.PNG)
+![5](https://user-images.githubusercontent.com/107339963/217089766-63c39847-974a-4616-b606-f596d863d878.png)
+
+
+## Link:
+https://app.powerbi.com/view?r=eyJrIjoiNzkyMWRhNWMtOTkxYy00NDUwLWI2MzAtYTY2NGZjMjZhN2RjIiwidCI6ImRiMDRlYjM0LTczMmEtNDE4YS05MDI1LTVhZDk5ZTk1MTY0OCJ9&pageName=ReportSection30fe6edfd0174b00c001
+
+##Dowload Data:
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5xGaEW09p8l91HJgrwGuVoW3BP-lBSGNf19_R5tL397WmuyPydlANOd7eUx9ZOw/pub?output=csv
