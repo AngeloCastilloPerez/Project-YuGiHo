@@ -1,4 +1,4 @@
-# Project-YuGiHo
+# Project-YUGIOH
 ## Project in honor of Kazuki Takahashi
 ### To carry out this project, the PowerBI program was needed, in addition, advanced visual objects were used that allow better interaction with the data. I hope you like it!
 
